@@ -16,10 +16,10 @@
 ### ⚙️ Currently Leading [Inphynitics](https://inphynitics.com/) as Tech Lead
 
 - 🌱 Exploring **Spring Boot, React, Postgres, AWS, K8s, Kafka, MERN**
-- ⚒️ Working with **PyQt5, Django, Flask, Next.js, Oracle Cloud, *NIX**
+- ⚒️ Worked with **PyQt5, Django, Flask, Next.js, Oracle Cloud, \*NIX**
 - 🗺️ Based in **UP, India 🇮🇳**
 - 🤝 Open to **collaboration and team projects**
-- 🌐 Visit my site → [https://zukashi.xyz](https://zukashi.xyz)
+- 🌐 Visit my site → [zukashi.xyz](https://zukashi.xyz)
 
 ---
 
