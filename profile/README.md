@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/GIT-RMD-HEADER.png" alt="I'm Divyanshu Shekhar" />
+  <img src="/profile/GIT-RMD-HEADER.png" alt="I'm Divyanshu Shekhar" />
 </p>
 
 <p align="center">
