@@ -1,5 +1,6 @@
-<h1 align="center">Hola! I'm Divyanshu Shekhar</h1>
-<h3 align="center">CSE Undergrad // Tech Enthusiast // Yo aprendo Español :')</h3>
+<p align="center">
+  <img src="./GIT-RMD-HEADER.png" alt="I'm Divyanshu Shekhar" />
+</p>
 
 <p align="center">
   <a href="https://instagram.com/zukashix" target="_blank"><img src="https://img.icons8.com/fluency/32/instagram-new.png"/></a>
