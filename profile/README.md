@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/zukashix" target="_blank"><img src="https://img.icons8.com/fluency/32/instagram-new.png"/></a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/zukashi" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png"/></a>
   &nbsp;&nbsp;
   <a href="mailto:hello@zukashi.xyz"><img src="https://img.icons8.com/fluency/32/gmail-new.png"/></a>
