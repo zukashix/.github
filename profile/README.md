@@ -14,7 +14,7 @@
 
 ### ⚙️ Currently Leading [Inphynitics](https://inphynitics.com/) as Tech Lead
 
-- 🌱 Exploring **Spring Boot, React, Postgres, AWS, K8s, Kafka, MERN**
+- 🌱 Exploring **Spring Boot, React, Postgres, AWS, K8s, Kafka, MERN, IoT**
 - ⚒️ Worked with **PyQt5, Django, Flask, Next.js, Oracle Cloud, \*NIX**
 - 🗺️ Based in **UP, India 🇮🇳**
 - 🤝 Open to **collaboration and team projects**
