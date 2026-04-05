@@ -18,7 +18,7 @@
 - ⚒️ Worked with **PyQt5, Django, Flask, Next.js, Oracle Cloud, \*NIX**
 - 🗺️ Based in **UP, India 🇮🇳**
 - 🤝 Open to **collaboration and team projects**
-- 🌐 Visit my site → [zukashi.xyz](https://zukashi.xyz)
+- 🌐 Visit my site → [zukashix.com](https://zukashix.com)
 
 ---
 
