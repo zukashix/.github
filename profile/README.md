@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/zukashi" target="_blank"><img src="https://img.icons8.com/fluency/32/linkedin.png"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:hello@zukashi.xyz"><img src="https://img.icons8.com/fluency/32/gmail-new.png"/></a>
+  <a href="mailto:mail@zukashix.com"><img src="https://img.icons8.com/fluency/32/gmail-new.png"/></a>
   &nbsp;&nbsp;
-  <a href="https://zukashi.xyz" target="_blank"><img src="https://img.icons8.com/fluency/32/domain.png"/></a>
+  <a href="https://zukashix.com" target="_blank"><img src="https://img.icons8.com/fluency/32/domain.png"/></a>
 </p>
 
 ---
