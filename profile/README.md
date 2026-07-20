@@ -49,13 +49,5 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zukashix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukashix&theme=tokyonight&layout=compact&hide_border=false" height="180px"/>
-</p>
-
----
 
