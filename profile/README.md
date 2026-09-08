@@ -19,7 +19,7 @@
 - 🌱 Exploring **Rust, K8s, Kafka, IoT, Google Cloud, Cybersecurity & Forensics Fundamentals**
 - 🗺️ Based in **Noida, Uttar Pradesh 🇮🇳**
 - 🤝 Open to **collaboration, events and opportunities**
-- 🌐 Visit my site → [zukashix.com](https://zukashix.com)
+- 🌐 Visit my site → [zukashix.com](https://zukashix.com) | Drop a message! → [mail@zukashix.com](mailto:mail@zukashix.com)
 
 ---
 
