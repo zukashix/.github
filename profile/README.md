@@ -12,12 +12,13 @@
 
 ---
 
-### ⚙️ Currently Leading [Inphynitics](https://inphynitics.com/) as Tech Lead
+###  Tech Lead @ [Inphynitics](https://inphynitics.com/) | Full Stack Engineer @ [Pixels & Grids](https://www.pixelsandgrids.com)
 
-- 🌱 Exploring **Flutter, React Native, Rust, K8s, Kafka, MERN, IoT**
-- ⚒️ Worked with **Spring, React ,PyQt5, Django, FastAPI, Flask, Next.js, AWS, Postgres, MERN, Oracle Cloud, \*NIX**
-- 🗺️ Based in **UP, India 🇮🇳**
-- 🤝 Open to **collaboration and team projects**
+- ⚒️ Worked with **Flutter, React Native, Spring, React, MERN, PyQt5, Django, FastAPI, Flask, Next.js, Postgres, MariaDB**
+- ⚙️ Administrated with **AWS, Azure, Oracle Cloud, Docker, GNU/Linux and other \*NIX based systems**
+- 🌱 Exploring **Rust, K8s, Kafka, IoT, Google Cloud, Cybersecurity & Forensics Fundamentals**
+- 🗺️ Based in **Noida, Uttar Pradesh 🇮🇳**
+- 🤝 Open to **collaboration, events and opportunities**
 - 🌐 Visit my site → [zukashix.com](https://zukashix.com)
 
 ---
